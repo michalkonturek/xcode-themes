@@ -15,10 +15,11 @@ To install themse simply execute `install-themes.sh` [script][script].
 
 [script]:https://github.com/michalkonturek/xcode-themes/blob/master/install-themes.sh
 
+## Themes
 
-## Solarized Dark
+### Solarized Dark
 
-## Solarized Dark + MK
+### Solarized Dark + MK
 
 
 
