@@ -1,8 +1,8 @@
 # Xcode Themes
 
-As a software developer you spend many hours coding. Having eye-friendly themes installed in your IDE is essential, especially if you like coding late at night.
-
 This repository contains a collection of dark Xcode themes which lessen eyestrain. 
+
+As a software developer you spend many hours coding. Having eye-friendly themes installed in your IDE is essential, especially if you like coding late at night.
 
 
 ## Installation
