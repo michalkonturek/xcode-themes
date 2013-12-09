@@ -1,12 +1,8 @@
 # Xcode Themes
 
-This repository contains a collection of Xcode themes which lessen eyestrain. 
+As a software developer you spend many hours coding. Having eye-friendly themes installed in your IDE is essential, especially if you like coding late at night.
 
-<!--
-As a software developer you spend many hours coding. To prevent extensive eye fatigue
-Having eye-friendly themes installed in your IDE is essential, especially if you like coding late at night.
-Unfortunately the default themes included in Xcode are a bit shabby. 
--->
+This repository contains a collection of dark Xcode themes which lessen eyestrain. 
 
 
 ## Installation
@@ -23,11 +19,19 @@ To install themse simply execute `install-themes.sh` [script][script].
 
 ### Monokai
 
+![Monokai](images/monokai.png)
+
 ### Solarized Dark
+
+![Solarized-Dark](images/solarized-dark.png)
 
 ### Solarized Dark + MK
 
-### Solarized Dark Light
+![Solarized-Dark+MK](images/solarized-dark+MK.png)
+
+### Solarized Light
+
+![Solarized-Light](images/solarized-light.png)
 
 
 
