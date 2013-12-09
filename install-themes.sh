@@ -8,4 +8,4 @@ fi
 
 find . -name "*.dvtcolortheme" -exec cp {} ${destination} \;
 
-echo "Done. Themese copied to: ${destination}"
+echo "Done. Themes copied to: ${destination}"
