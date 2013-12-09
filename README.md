@@ -17,9 +17,19 @@ To install themse simply execute `install-themes.sh` [script][script].
 
 ## Themes
 
+### Flatland
+
+![Flatland](images/flatland.png)
+
+### Monokai
+
 ### Solarized Dark
 
 ### Solarized Dark + MK
+
+### Solarized Dark Light
+
+
 
 
 
