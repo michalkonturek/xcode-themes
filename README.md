@@ -33,11 +33,11 @@ To install themse simply execute `install-themes.sh` [script][script].
 
 ![Solarized-Light](images/solarized-light.png)
 
-
+<!--
 - - -
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/michalkonturek/xcode-themes/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
+-->
 
 
 
